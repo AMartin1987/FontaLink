@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productos>
+    <producto>
+        <titulo>Grifo de Cocina</titulo>
+        <descripcion>Grifo monocomando de acero inoxidable para cocina moderna.</descripcion>
+        <precio>79.99</precio>
+        <envio>5.00</envio>
+        <instalacion>15.00</instalacion>
+    </producto>
+    <producto>
+        <titulo>Radiador Eléctrico</titulo>
+        <descripcion>Radiador de bajo consumo ideal para habitaciones medianas.</descripcion>
+        <precio>129.99</precio>
+        <envio>8.00</envio>
+        <instalacion>20.00</instalacion>
+    </producto>
+    <producto>
+        <titulo>Termotanque Solar</titulo>
+        <descripcion>Sistema de calentamiento solar eficiente y ecológico.</descripcion>
+        <precio>349.99</precio>
+        <envio>12.00</envio>
+        <instalacion>40.00</instalacion>
+    </producto>
+    <producto>
+        <titulo>Kit de Ducha</titulo>
+        <descripcion>Set completo con duchador, manguera y soporte de acero.</descripcion>
+        <precio>59.99</precio>
+        <envio>4.00</envio>
+        <instalacion>10.00</instalacion>
+    </producto>
+    <producto>
+        <titulo>Caldera a Gas</titulo>
+        <descripcion>Caldera mural para calefacción de alta eficiencia.</descripcion>
+        <precio>899.00</precio>
+        <envio>20.00</envio>
+        <instalacion>100.00</instalacion>
+    </producto>
+    <producto>
+        <titulo>Bomba Presurizadora</titulo>
+        <descripcion>Bomba silenciosa para aumentar presión de agua en el hogar.</descripcion>
+        <precio>199.00</precio>
+        <envio>7.00</envio>
+        <instalacion>25.00</instalacion>
+    </producto>
+    <producto>
+        <titulo>Termostato Inteligente</titulo>
+        <descripcion>Control remoto y programable para la calefacción de tu hogar.</descripcion>
+        <precio>149.99</precio>
+        <envio>6.00</envio>
+        <instalacion>30.00</instalacion>
+    </producto>
+    <producto>
+        <titulo>Depósito de Agua</titulo>
+        <descripcion>Tanque de alta capacidad para almacenamiento de agua potable.</descripcion>
+        <precio>299.50</precio>
+        <envio>15.00</envio>
+        <instalacion>50.00</instalacion>
+    </producto>
+</productos>
