@@ -37,6 +37,7 @@ Estas páginas están accesibles desde el menú o flujo normal de navegación:
 - `index.html`: Página principal
 - `registro.html`: Registro de usuario
 - `inicioSesion.html`: Inicio de sesión
+- `miCesta.html`: Cesta de compras del cliente
 
 ---
 
@@ -61,7 +62,7 @@ Todos los recursos (CSS, JS, XML) están referenciados mediante **rutas relativa
 
 ## Entrega
 
-- 🌐 Versión online subida: [*incluir URL aquí una vez subida*]
+- 🌐 Versión online subida: [*[https://github.com/AMartin1987/FontaLink](https://github.com/AMartin1987/FontaLink)*]
 - 📦 Versión local: ver archivo ZIP adjunto con esta estructura de proyecto.
 
 ---
@@ -69,4 +70,4 @@ Todos los recursos (CSS, JS, XML) están referenciados mediante **rutas relativa
 ## Autora
 
 Alejandra Martín  
-1º DAM – Curso 2024/2025  
+1º DAM Semipresencial – Curso 2024/2025  
