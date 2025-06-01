@@ -7,7 +7,7 @@ Este proyecto consiste en el diseño de una aplicación web para una empresa ded
 ---
 
 ## Estructura del proyecto
-
+```
 FONTALINK/
 │
 ├── css/
@@ -26,7 +26,7 @@ FONTALINK/
 ├── miCuentaCliente.html
 ├── miCuentaFontanero.html
 └── registro.html
-
+```
 
 ---
 
